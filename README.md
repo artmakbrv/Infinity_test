@@ -1,1 +1,1 @@
-# Infinity_test
+# Тестовое задание Infinity
